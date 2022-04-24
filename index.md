@@ -1,3 +1,8 @@
+<img src="header.png"
+     alt="Markdown Monster icon"
+     style="float: middle; margin-right: 10px;" />
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cigdemturan/baum-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
