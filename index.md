@@ -1,5 +1,4 @@
-
-![header](https://github.com/cigdemturan/BAUM-2/blob/gh-pages/header.png)
+![header](https://user-images.githubusercontent.com/10387558/164970783-3f33a49f-2000-4d59-8f78-eda030fa9f6f.png)
 
 <br/><br/>
 
